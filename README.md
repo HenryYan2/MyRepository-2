@@ -1,123 +1,476 @@
-==========E2Q_oddkiXa`MOMIOGMF.gdgbgVEB;####################################################################################################EB;AMOMI/OG/MFAAWVoXVUZ.WmXE通用設定如下ED	ddkiXa版本ENH.M/NH.K/ML.N/MK.NCEB;####################################################################################################EBoRdu6szXgbVDbgdE"#######################################"CEBoRdu6szXgbVDbgdE"<6bja>:E3aolE(:/vkcZ/2Q_wegdd/2Q_oddkiXa.gdgbgV"CEBidn_2Q_oddkiXa_gdgbgVE=E"q w"EBB;########################################E	ddkiXa設定EB;E填寫在WVoXVUZ.WmX中時,不需要加oRdwhkddEBoRdwhkddD"WkVEoddkiXa_VhkckE=EdgihV"CEBoRdwhkddD"WkVEVkdWegdd"CEBoRdwhkddD"odgoWEXEWkVEVkdWegdd"CEBoRdwhkddD"jUbmekQEaEWegddEa"CEBoRdwhkddD"oA~NA7)6w_(UZdgmoVk1c)he"CEBB;########################################E自动载入wegddEBdaolD"(:/vkcZ/2Q_wegdd/2Q9Ubm.gd"CEBdaolD"(:/vkcZ/2Q_wegddM/qob_wegdd/qob_9UbmVgab.gd"CEBdaolD"(:/vkcZ/2Q_wegddM/qob_wegdd/qob_xkol(
-gl.gd"CEBdaolD"(:/vkcZ/2Q_wegddM/qob_wegdd/qob_9Ubm4s(W)he.gd"CEBdaolD"(:/vkcZ/2Q_wegddM/qob_wegdd/5)hgbkWk)abTkXVkX.gd"CEBB;####################################################################################################EB==========E2Q9Ubm`MOMIOFON.gdEBB;E讀取_7ZXgbVjD			C文檔中數據.EBZXamklUXkDE_7XkolDCEBZXaiDDE9gdkzoVhExkol(oVkwE6bzaXVE0bk3gbkECEBA9gdkzoVhE=E"(:/vkcZ/2Q_wegdd/q_tod_xkZaXV.VRV"EBAxkol(oVkwE=EbgdEBA6bzaXVE=EgbjgdkDE9gdkzoVhECEBAShkbDE6bzaXVEBAAShgdkDE0bk3gbk=moXDdgbkXkolD6bzaXVCCEBAAAShkbDE0bk3gbkEBAAAAxkol(oVkwE=EoZZkblNDExkol(oVkwE0bk3gbkECEBAAACEBAACEBAAmdaWkD6bzaXVCEBACEBAxkol(oVkwE=EgjDdkbiVhDxkol(oVkwC==N,EmoXDxkol(oVkwC,Exkol(oVkwCEBAXkVUXbDExkol(oVkwECEBCCEBB;E[小程序]E``E文档比对.ED修改版CAAAAAAAA==>E临时修改,E用完删除A==>E修改内容:E將比對文檔固定爲(gjjkXkbVEvRVN和vRVM.EBZXamklUXkDEqxv(9_xkolvRV(gjjkXkbV_2ogbDCAAAAAA;E比較兩個文檔是否完全相同EED版本MCEEBZXaiDDEvRVNEvRVMEzVhOEzVhNE0Xi(gXEvR6bjNEvR6bjMExkZvRVOExkZvRVNExkZvRVMExcT3WVECEBA;==========E讀取文檔E==========EBAvRVN=bgd,EvRVM=bgd,EzVhO="(:/vkcZ/2Q_wegdd",EzVhN=bgdEBABA;zVhNEE=EWVXmoVDEnUgdlwVXgbiDXkTkXWkDmlXDXkTkXWkDZoXWkwVXgbiDoRd8kV(XoSgbi1ockDCE"/"CCCCE"/"CE"/"E"NO.oUVa_XUdk/OM.XkZaXV/"ECE;E临时EBABA0Xi(gXE=EikVsaXegbi(gXDCEBAShgdkDEoblDvRVNEvRVMC==bgdEBAAmhobiksaXegbi(gXDEaXDzVhNEzVhOCECEBAAgjDEvRVN==bgdEVhkbEBAAAvR6bjNE=Eqxv(9_xkolvRV(gjjkXkbV_xkolvRVDE"(:/vkcZ/2Q_wegdd/q_vRV(gjjkXkbV_vRVN.VRV"ECEBAAAShkbDEmoXDvR6bjNC,EEzVhNE=EnUgdlwVXgbiDXkTkXWkDmlXDXkTkXWkDZoXWkwVXgbiDmoXDvR6bjNCE"/"CCCCE"/"CECEBAAAvRVNE=EmolXDvR6bjNCEBAAkdWkEBAAAvR6bjME=Eqxv(9_xkolvRV(gjjkXkbV_xkolvRVDE"(:/vkcZ/2Q_wegdd/q_vRV(gjjkXkbV_vRVM.VRV"ECEBAAAShkbDEmoXDvR6bjMC,EEzVhNE=EnUgdlwVXgbiDXkTkXWkDmlXDXkTkXWkDZoXWkwVXgbiDmoXDvR6bjNCE"/"CCCCE"/"CECEBAAAvRVME=EmolXDEvR6bjMECEBAACEBACEBAmhobiksaXegbi(gXD0Xi(gXCEBA;==========E==========E==========EBAoRd2WizUVDE"<6bja>:E3gbkE1cnE```E%3EE%3E"EdkbiVhDvRVNCEdkbiVhDvRVMCECEBAxcT3WVE=Eqxv(9_xkolvRV(gjjkXkbV_xkcaTk3gbkDEvRVNEvRVMECEBAxcT3WVE=Eqxv(9_xkolvRV(gjjkXkbV_xkcaTk3gbkMDExcT3WVECEBA;BAxkZvRVOE=EdgWVDE";##########E##########EwockE##########E##########"EECEBAxkZvRVNE=EdgWVDEWZXgbVjDEbgdE";##########E##########E%WE##########E##########"EmoXDdoWVDZoXWkwVXgbiDmoXDvR6bjNCE"/"CCCECECEBAxkZvRVME=EdgWVDEWZXgbVjDEbgdE";##########E##########E%WE##########E##########"EmoXDdoWVDZoXWkwVXgbiDmoXDvR6bjMCE"/"CCCECECEBAxkZvRVOE=EoZZkblDExkZvRVOEEEmoXDxcT3WVCECEBAxkZvRVNE=EoZZkblDExkZvRVNEEmolXDxcT3WVCECEBAxkZvRVME=EoZZkblDExkZvRVMEmollXDxcT3WVCECEBA;BAxkZvRVLE=EdgWVDEWZXgbVjDEbgdE";##########E##########E%WE##########E##########"EmoXDdoWVDZoXWkwVXgbiDmoXDvR6bjNCE"/"CCCECECEBAxkZvRVKE=EdgWVDEWZXgbVjDEbgdE";##########E##########E%WE##########E##########"EmoXDdoWVDZoXWkwVXgbiDmoXDvR6bjMCE"/"CCCECECEBAjaXkomhDvRVEvRVN,Etod=gjDckcnkXDvRVExkZvRVOC,E".EE",E"***"C,ExkZvRVL=oZZkblNDxkZvRVLEoZZkblNDvRVEtodCCECEBAjaXkomhDvRVEvRVM,Etod=gjDckcnkXDvRVExkZvRVOC,E".EE",E"[+]"C,ExkZvRVK=oZZkblNDxkZvRVKEoZZkblNDvRVEtodCCECEBA;==========E打印文檔E==========E文檔原路徑/原名_(gjjkXkbV.VRVEBAqxv(9_xkolvRV(gjjkXkbV_zXgbVvRVDEWVXmoVDEzVhOE"/"E"q_vRV(gjjkXkbV_wock.VRV"ECExkZvRVOECEBAqxv(9_xkolvRV(gjjkXkbV_zXgbVvRVDEWVXmoVDEzVhOE"/"E"q_vRV(gjjkXkbV_vRVN.VRV"ECExkZvRVNECEBAqxv(9_xkolvRV(gjjkXkbV_zXgbVvRVDEWVXmoVDEzVhOE"/"E"q_vRV(gjjkXkbV_vRVM.VRV"ECExkZvRVMECEBA;==========E==========E==========BAXkVUXbDEVECEBCCEBZXamklUXkDEqxv(9_xkolvRV(gjjkXkbV_xkolvRVDEvRVzVhECAAAA;E讀取文檔EBZXaiDDEvRV3WVEE6bzaXVE3gbkEgECEBAvRV3WVE=EbgdEEBA;vRVzVhE=EoRd(29gdk
-XaSWkDbgdEbgdE?aZV9gdVkXWE"wegddEjgdkWD*.gdC|*.gd|wegdd0aZWD*.gdWC|*.gdW|"CAA;EoRd(29gdk
-XaSWkD"	33 8x0_v rv"EbgdCBABA;vRVzVhE=EoRd(29gdk
-XaSWkDbgdEbgdCEBABAgjDEvRVzVh==bgdEVhkbEBAAoRd2WizUVDE"<6bja>:EuWkXE)obmkd."ECEBAkdWkEBAAoRd2WizUVDE"<zoVh>:E%W."EvRVzVhECEBAA6bzaXVE=EgbjgdkDEvRVzVhECEBAAgjDE6bzaXV==bgdEVhkbEBAAAoRd2WizUVDE"<6bja>:E1abkE6bzaXV."ECEBAAkdWkEBAAAg=OEBAAAShgdkDEikVWD3gbkE6bzaXVCEBAAAAg++EBAAAA3gbkE=EmoXDZoXWkwVXgbiD3gbkE"\b"CCEBAAAAShkbD3gbk,EvRV3WVE=EoZZkblNDEvRV3WVEdgWVD3gbkEgCECCEBAAACEBAAAmdaWkDE6bzaXVECEBAACEBACEBAXkVUXbDEdgWVDvRVzVhEvRV3WVCECEBCCEBBB;E[小程序]E``E直接手動加載.gd文件.EBoRd)clxkigWVkXDE"999"E'7_9Ubm4s(W)he_3aol9UbmE?mclvQZkE"gbVkXomVgTk"CEBoRdwhkddD"jUbmekQEjjjE\"999\""CEB8dn_vkcZ_3aolzVhE=E"(:/vkcZ/2Q_wegdd"EB;E手動選擇並加載gd文件EBZXamklUXkDE7_9Ubm4s(W)he_3aol9UbmDCEBZXaiDDE(gXOE6b9gdkzVhECEBA(gXOE=EikVsaXegbi(gXDCEBAmhobiksaXegbi(gXDE8dn_vkcZ_3aolzVhECEBA6b9gdkzVhE=EoRd(29gdk
-XaSWkDbgdEbgdE?aZV9gdVkXWE"wegddEjgdkWD*.gdC|*.gd|wegdd0aZWD*.gdWC|*.gdW|"CEEEE;E載入wegdd文檔EBAgjDE6b9gdkzVhEVhkbEBAAdaolDE6b9gdkzVhECEBAAoRd2WizUVDE"``````````E``````````E``````````E``````````"ECEBAAoRd2WizUVDE"<E3aolE9gdkE>:E%W"E6b9gdkzVhECEBAAoRd2WizUVDE"``````````E``````````E``````````E``````````"ECEBAA8dn_vkcZ_3aolzVhE=EnUgdlwVXgbiDXkTkXWkDmlXDXkTkXWkDZoXWkwVXgbiD6b9gdkzVhE"/"CCCCE"/"CEBAkdWkEBAAoRd2WizUVDE"<6bja>:EuWkXE)obmkd."ECEBACEBAmhobiksaXegbi(gXDE(gXOECEBAXkVUXbDEVECEBCCEBBB;E[小程序]E``E生成ExkZaXV文件:E临时打印显示数据.ED修改版CAAA==EMOMJ/OG/OJEoZZkbl方式E生成並打印xkZaXVEBZXamklUXkDE_7ZXgbVjMDEz3gWVE@aZVgabodED2alk1ENCED)XkoVktgkSEVCED9gdkzoVhEbgdCECEBZXaiDDE3gbk3WVEvcZ9gdkE0UVzaXV,E6bzaXVE3gbkwEsgblaS2WiECEBAShkbDE9gdkzoVh==bgd,E9gdkzoVhE=E"(:/vkcZ/2Q_wegdd/q_tod_xkZaXV.VRV"ECEBA3gbk3WVE=EbgdEBAmoWkDE2alk1EBAADENAAAvcZ9gdkE=EoRdvkcZ9gdkDVCEBAAAAAgjDEvcZ9gdk==bgdEVhkbEBAAAAAAoRdu6)abjgXcD" xx0x:E)obE1aVE RZaXVExkZaXVE!"E'kXXaXCEBAAAAAkdWkEBAAAAAA0UVzaXVE=EaUVjgdkDvcZ9gdkE"S"CA;;重寫模式EBAAAAAAZZXgbVDz3gWVE0UVzaXVCEBAAAAAAjZXgbVjD0UVzaXVE"\b"CEBAAAAAAmdaWkD0UVzaXVCEBAAAAAAoRd0w9gdk)aZQDEvcZ9gdkE9gdkzoVhEbgdCEBAAAAAAShkbDE)XkoVktgkSEBAAAAAAAoRdu6tgkS9gdk)XkoVkDvcZ9gdkE" RZaXVExkZaXV."EVCEBAAAAAAAoRdu6szXgbVDbgdE"6bjaE```E9gdkEwoTkl:E%W\b"E9gdkzoVhECEBAAAAAACEBAAAAAAoRdvkcZ9gdkxkcaTkDvcZ9gdkCEBAAAAACEBAACEBAADEMAAA0UVzaXVE=EaUVjgdkD9gdkzoVhE"o"CAAAAAAA;;oZZkbl模式EBAAAAAZZXgbVDz3gWVE0UVzaXVCEBAAAAAjZXgbVjD0UVzaXVE"\b"CEBAAAAAmdaWkD0UVzaXVCAAAAAAAAAAA;;在這一步,數據已生成到文檔中.EBAAAAAShkbDE)XkoVktgkSEBAAAAAAoRdu6tgkS9gdk)XkoVkD9gdkzoVhE"	ZZkblExkZaXV."EbgdCA;;Dbgd==>窗口關閉時,不刪除原始文件CEBAAAAAAoRdu6szXgbVDbgdE"6bjaE```E9gdkEwoTkl:E%W\b"E9gdkzoVhECEBAAAAACEBAACEBAADELAAA6bzaXVE=EgbjgdkD9gdkzoVhCEBAAAAAShgdkDE3gbkw=dgbkXkolD6bzaXVCEBAAAAAA3gbk3WVE=EoZZkblD3gbk3WVE3gbkwCEBAAAAACEBAAAAAmdaWkDE6bzaXVECEBAAAAAShkbDE)XkoVktgkSEBAAAAAAsgblaS2WiE=EoRdu6tgkS9gdk)XkoVkD9gdkzoVhE"tgkSEN"EbgdCAA;;彈出窗口.EDbgd==>窗口關閉時,不刪除原始文件CEBAAAAACEBAAAAA;oRdu6s)daWkDsgblaS2WiCEEsgblaS2WiE=EbgdAAAAA;;關閉窗口.EBAAAAA;oRdu6tgkS9gdkxkUWkDsgblaS2WiE9gdkzoVhE"tgkSE1"EbgdCAA;;刷新窗口.EBAACEBACEBAXkVUXbDE3gbk3WVECEBCCEBB;;##########E##########E##########E##########E##########E##########EBBB;E[小程序]E``E0nf外擴繪製成whoZkED同層創建C.EBZXamklUXkDE7z(	_0nf RZvawhoZkDE0nfE RZtECEBZXaiDDEzadQEzadQ4EwhoZkECEBAzadQE=EmoXDoRdzadQ9Xac(
-D0nfCCEBAzadQ4E=EmoXDoRdzadQ RZoblDzadQE RZtE'	33_	x)ECCEBAwhoZkE=EmoXDoRd(
-)XkoVkwhoZkDEzadQ4EVE0nf`>doQkXECCEEBAXkVUXbDEwhoZkECEBCCEBB;E[小程序]E``E根據)dgbk繪製dgbkAA==>ED複製自Exz3)x_ RZ((x
-XkoeaUV3sw.gd,E僅加批注,E代碼未修改CEBZXamklUXkDExz3)x_ RZ((x
-Xe0_)XkoV3gbkND)dgbkCEBZXaiDD3gbkWEzoVhWEzWVoXVEgEzgEwVoXVEzg blzEzg	Xm)VEsglVhEZoVhE3gbk(
-CBA3gbkW=bgdBAzoVhWE=EXkTkXWkDoRd(
-MzoVhD)dgbkC`>_ZoVh3gWVCAA;E反序EEEZoVh的信息數據D比wki數多一個CEBAzWVoXVE=EmoXDzoVhWCAAAAAAAAA;E第一個ZoVh數據的終點,E做為繪製3gbk的起點EBAjaXDEgEMEdkbiVhDzoVhWCBAAzgE=EbVhkdkcDgEzoVhWCEEEEEE;E第b段EmdgbkBAAwVoXV=zWVoXV`>_kblzagbVEEEE;E第b段E起點BAAzg blzE=Ezg`>_kblzagbVEEEEE;E點BAAzg	Xm)VE=Ezg`>_oXm)kbVkXEEE;E第b段E角度BAAsglVh=zg`>_SglVhEEEEEEEEEEE;E第b段E綫寬BAAAZoVhE=EoRdzoVhwVoXVDEDdgWVEwVoXVCCBAAAgjDzg	Xm)VEVhkbBAAAAoRdzoVh	Xm)kbVkXDEZoVh,EsglVh,Ezg blz,Ezg`>_oXm)dameSgWkE,Ezg	Xm)VECBAAAkdWkEBAAAAoRdzoVh3gbkDEZoVh,EsglVh,Ezg blzECBAAAC;kblEgjBAAA3gbk(
-=mooXDoRd(
-)XkoVkzoVhDEZoVh,E"(x	s618E90x2	v/v 2z_0uv361 _3M"CCA;兩次moX取lnglEE格式：DDDlnglCEbgdCEDDlnglCEbgdCEDDlnglCEbgdCCBAAA3gbkWE=EoZZkblND3gbkWE3gbk(
-CBAAzWVoXV=zgBAC;kblEjaXBAXkVUXbD3gbkWCBCC;kblEZXamklUXkABB;E[小程序]E``E加載地址下gd文件D待修改C.EBZXamklUXkDE0VhkX9Ubm_WVoXVUZDCEBZXaiDDEjgdkECEBAjaXkomhDEjgdkEXkR2oVmh3gWVD"\\.gd$"EikV(gX9gdkWD"."CCEBAAUbdkWWDEaXDEkYUodDjgdkE"WVoXVUZ.gd"CEkYUodDjgdkE"WWVoXVUZ.gd"CECEBAAAdaolDjgdkCEBAAAoRd2WizUVDE"<3aol>:E%W"EjgdkECEBAACEBACEBAXkVUXbDVCEBCCEBB;E[小程序]E``E循環開啓
-Xl文件,E點擊后執行所給功能EEEE==>E可增加鼠標右鍵,隨時退出EBidn_9
-9v_vkWV9UbmVgabE=E""EBZXamklUXkDE_7)accab_9aXkomh
-aoXlW9aXvkWVDCEBZXaiDDE(gX
-Xl1c3WVEsaXegbi(gXE9gdk1cE)UX1Evad1E
-Xl1cECEBA;=====E讀取當前目錄下全部的
-Xl文件EBA(gX
-Xl1c3WVE=EbgdEBAsaXegbi(gXE=EnUgdlwVXgbiDXkTkXWkDmlXDXkTkXWkDZoXWkwVXgbiDoRd8kV(XoSgbi1ockDCE"/"CCCCE"/"CEBAjaXkomhDE9gdk1cEikV(gX9gdkWDsaXegbi(gXCEBAAShkbDEoblDgblkRD9gdk1cE".nXl"C==".nXl",E9gdk1c!="	uv0w	t .nXl"CEBAAA(gX
-Xl1c3WVE=EoZZkblND(gX
-Xl1c3WVE9gdk1cCEBAACEBACEBA(gX
-Xl1c3WVE=EWaXVD(gX
-Xl1c3WVE'odZhodkWWZCEBABA;=====E未設置vkWV9UbmVgab時,E執行默認vkWV9UbmVgabEBAShkbDEidn_9
-9v_vkWV9UbmVgab==""EBAAoRdu6szXgbVDbgdE"<6bja>:EvkWVEjUbmVgabEbaVElkjgbklE!"CEBAAidn_9
-9v_vkWV9UbmVgabE=E"_7)accab_9
-9v_vkWV9UbmVgabDC"EBAA(gX
-Xl1c3WVE=EgjDE(gX
-Xl1c3WV,EdgWVDmoXD(gX
-Xl1c3WVCC,EbgdECEBACEBA;=====E執行vkWV9UbmVgabEBA)UX1E=EOEBAvad1E=EdkbiVhD(gX
-Xl1c3WVCEBAjaXkomhDE
-Xl1cE(gX
-Xl1c3WVEBAA)UX1++EBAAoRdu6szXgbVDbgdE"========================================"CEBAAoRdu6szXgbVDbgdE"<6bja>:EmUXXkbVEnaoXlEE%3/%3E\VE%W"E)UX1Evad1E
-Xl1cECEBAAoRd0Zkb(kWgibDE?lkWgibE
-Xl1cE?calkE"Sj"ECEBAA;;EBAAkTodWVXgbiDidn_9
-9v_vkWV9UbmVgabCEBAAoRdu6szXgbVDbgdE""CEBACEBAXkVUXbDVCEBCCEB;EEEEEEEEEEEEE默認vkWV9UbmVgabEBZXamklUXkDE_7)accab_9
-9v_vkWV9UbmVgabDCEBZXaiDDCEBAoRd bVkXzagbVD?ZXacZVWE"<6bja>:EzdkoWkEmdgmeEVaEWVoXVE9UbmVgabENE..."CEBAoRdu6szXgbVDbgdE"[9Ubm]:E2QE9UbmVgabEN"CEBAoRdu6szXgbVDbgdE""CEBA;;EBAoRd bVkXzagbVD?ZXacZVWE"<6bja>:EzdkoWkEmdgmeEVaEWVoXVE9UbmVgabEME..."CEBAoRdu6szXgbVDbgdE"[9Ubm]:E2QE9UbmVgabEM"CEBAoRdu6szXgbVDbgdE""CEBA;;EBAoRd bVkXzagbVD?ZXacZVWE"<6bja>:EzdkoWkEmdgmeEVaEVhkEbkRVEnaoXlEjgdkE..."CEBAXkVUXbDVCEBCCEBB;E臨時測試程式,E待刪除EBZXamklUXkDEvkWV9UbmNDCEBZXaiDDCEBA	NE=Ebgd,EE	ME=EbgdEBA
-NE=Ebgd,EE
-ME=EbgdEBA)NE=Ebgd,EE)ME=EbgdEBAjaXkomhDE(zEoRd(
-8kV(kWgibDC`>lgjjZogXEBAA	NE=EoZZkblND	NE(z`>anfvQZkCEBAA	ME=EoZZkblND	ME(z`>VQZkCEBAAjaXkomhDErbkV1kVE(z`>iXaUZ2kcnkXWEBAAA
-NE=EoZZkblND
-NErbkV1kV`>anfvQZkCEBAAA
-ME=EoZZkblND
-MErbkV1kV`>VQZkCEBAAAjaXkomhDE1kVErbkV1kV`>iXaUZ2kcnkXWEBAAAA)NE=EoZZkblND)NE1kV`>anfvQZkCEBAAAA)ME=EoZZkblND)ME1kV`>VQZkCEBAAACEBAACEBACEEBA	NE=EUbgYUkD	NC,EE	ME=EUbgYUkD	MCEBA
-NE=EUbgYUkD
-NC,EE
-ME=EUbgYUkD
-MCEBA)NE=EUbgYUkD)NC,EE)ME=EUbgYUkD)MCEBAoRd2WizUVDE"(z,EEEEEEEanfvQZkE=E%3,EVQZkE=E%3"E	NE	MECEBAoRd2WizUVDE"rbkV1kV,EEanfvQZkE=E%3,EVQZkE=E%3"E
-NE
-MECEBAoRd2WizUVDE"1kV,EEEEEEanfvQZkE=E%3,EVQZkE=E%3"E)NE)MECEBAXkVUXbDEVECEBCCEBBBB;=====E[7pEtgkS便捷跳轉版]E=====BB;E7p`NEEDMOMIOKMH在用程式:E三角標的測試程式/後處理檢查程式CEBZXamklUXkDEvkWV_)odd7P9gdkDE	dd7P(oVkWECEBdkVDEDx72kbUzoVhEE XXaX)aUbVE0TkXSXgVk2alkE)XkoVklE(WCE;Ex73gWVEBAAx72kbUzoVh=")hkme"EBAAx7)accobl1ock="vkWVEwhaSrq"EBAAx7(gWondkwaXV9Ubm1ock=bgdAAAAAAABAAx76W)hkmexkWUdV=VAAAAAAAAABAAx73gWV=EvkWV_)XkoVk7P9gdkDE	dd7P(oVkWECEBAA XXaX)aUbV=dkbiVhDx73gWVC`MBAAgjD XXaX)aUbV>OAVhkbEBAAA0TkXSXgVk2alk=VEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEBAAA)XkoVkl=x7)XkoVkxkTgkS9gdkDx72kbUzoVhEx7)accobl1ockEx7(gWondkwaXV9Ubm1ockEx76W)hkmexkWUdVEx73gWVE"vkWV_whaSrq.XkTgkS"E0TkXSXgVk2alkCBAAAgjD XXaX)aUbV>NEVhkbE(W="W"EkdWkE(W=""CEEEEEEEEEEEBAAAoRd2WizUVD")7 )4:E%lEkXXaX%W"E XXaX)aUbVE(WCBAAAxkTgkS7oPoXlWD"lgXkmV"CEEEEEEEEEEEEEEEEEEEEEEEEEEBAAkdWkBAAAoRd2WizUVD")7 )4:E1aE XXaX"CEEEEEEEEEEEEEEEEEEEEEEBAAC; blEgjBCC; blEZXamklUXkEB;E7p`MEBZXamklUXkDEvkWV_)XkoVk7P9gdkDE	dd7P(oVkWECEBZXaiDDE9Ubm1ockE7PtgkS3gWVE XXwVoVUWE(kWmXgZVgabEtodUkE	mVUodE2oXigbE3oQkXE0nfNE0nfME3amoVgabE)adaXE7gdgVkE XX6blE6bjaE RkmUVgabE6Vkc3gWVEBAA RZtNE RZtMEvad3bE)UX3bE6VkcWEzaV0X
-aRE3oQkX3WVE8XZ2WiEwhaS
-aRECEBA9Ubm1ockE=E"vkWVEwhaSrq"EBA7PtgkS3gWV=dgWVDdgWVD"[jUbm_hkol]"E9Ubm1ockE"	ddkiXa/3oQaUV/)hkme"CCEBAgjDE	dd7P(oVkWEVhkbEBAA RZtNE=EoRd24wMuuD"LOEcgdW"CEBAA RZtME=EoRd24wMuuD"LEcgdW"C*N.O;O.JAA;7P綫寬為LEBAAvad3bE=EdkbiVhD	dd7P(oVkWCEBAA)UX3bE=EOEBAAjaXkomhDE6VkcWE	dd7P(oVkWEBAAA)UX3b++EBAAAzaV0X
-aRE=EbVhkdkcDNE6VkcWCEBAAA3oQkX3WVE=EbVhkdkcDME6VkcWCEBAAA8XZ2WiEEE=EbVhkdkcDLE6VkcWCEBAAA8XZ2WiE=EgjDE8XZ2Wi,EWZXgbVjDbgdE"EE%W"E8XZ2WiC,E""ECEBAAAwhaS
-aRE=EgjDEdgWVZDmoXDzaV0X
-aRCC,EzaV0X
-aR,EdgWVDzaV0X
-aREzaV0X
-aRCECEBAAA;````````````````````````````````````````````````````````````````EBAAA9Ubm1ockEE=E9Ubm1ockEBAAA XXwVoVUWE=EbgdEBAAA(kWmXgZVgab=EWZXgbVjDbgdE"%3/%3%W"E)UX3bEvad3bE8XZ2WiCEBAAAtodUk=""BAAA	mVUod=""EBAAA2oXigb=""BAAA3oQkX=EaXDmoXD3oQkX3WVCE""CEBAAA0nfN=E""BAAA0nfM=E""BAAA3amoVgab=En
-aR	llDEwhaS
-aREdgWVDdgWVD` RZtNE` RZtNCEdgWVD RZtNE RZtNCCECEBAAA)adaX=EvkWV_7P3QXwkVDE3oQkX3WVECEBAAA7gdgVk=bgdBAAA XX6bl=EEEn
-aR	llDEwhaS
-aREdgWVDdgWVD` RZtME` RZtMCEdgWVD RZtME RZtMCCECEBAAA6bja="
-kEWUXkEVaEmabjgXc"EBAAA RkmUVgab=bgdEBAAA6Vkc3gWV=dgWVD9Ubm1ockE XXwVoVUWE(kWmXgZVgabEtodUkE	mVUodE2oXigbE3oQkXE0nfNE0nfME3amoVgabE)adaXE7gdgVkE XX6blE6bjaE RkmUVgabCEBAAA;````````````````````````````````````````````````````````````````EBAAA7PtgkS3gWVE=EoZZkblNDE7PtgkS3gWVE6Vkc3gWVECEBAACEBAkdWkEBAA7PtgkS3gWV=oZZkblND7PtgkS3gWVEdgWVDWVXmoVD9Ubm1ockE":E1aE XXaX"CEbgdEWVXmoVD9Ubm1ockE":E1aE XXaX"CE""E"1aE XXaX"E""E""E""E""EbgdE""EbgdEbgdE""EbgdCCEBACEBA7PtgkS3gWVE=EoZZkblD7PtgkS3gWVEdgWVDdgWVD"[jUbm_Vogd]"CCCEBAXkVUXbDE7PtgkS3gWVECEBCCEB;E7p`M`N.E設置切換層面.EBZXamklUXkDEvkWV_7P3QXwkVDE3oQkX3WVECEBZXaiDDE)adaXEtgW6bj3WVE3oQkXEtgW6jECEBAgjDE3oQkX3WV==bgdEVhkbEBAA)adaXE=E""EBAkdWkEBAAtgW6bj3WVE=EdgWVDE"3oQkX)abVXadDC"EE"oRdtgWgndk(kWgibDbgdC"ECEBAAjaXkomhDE3oQkXE3oQkX3WVEBAAAtgW6jE=EWZXgbVjDbgdE"oRdtgWgndk3oQkXD%3EVC"E3oQkXCEBAAAtgW6bj3WVE=EoZZkblNDEtgW6bj3WVEtgW6jECEBAACEBAA)adaXE=EnUgdlwVXgbiDtgW6bj3WVE"@@"CEBACEBAXkVUXbDE)adaXECEBCCEBBBB;E文檔轉換EBZXamklUXkDEvkWV_wSgVmh9gdkDCEBZXaiDDE9gdkzoVhE	dd3gbkwECEBA9gdkzoVhE=E"(:/vkcZ/2Q_wegdd/q_vRV(gjjkXkbV_vRVN.VRV"EBA;;EBA	dd3gbkwE=EvkWV_xkol9gdkDE9gdkzoVhECEBA;;EBAvkWV_zXgbV9gdkDE	dd3gbkwE9gdkzoVhECEBAXkVUXbDEVECEBCCEB;E讀文檔+字符轉換EBZXamklUXkDEvkWV_xkol9gdkDE9gdkzoVhECEBZXaiDDE	dd3gbkwE6bzaXVE3gbkNE)hoX3WVNE)hoX3WVME)hoXNE)hoXME3gbkMECEBA	dd3gbkwE=EbgdEBA6bzaXVE=EgbjgdkDE9gdkzoVhECEBAShgdkDEikVWD3gbkNE6bzaXVCEBAA)hoX3WVNE=EZoXWkwVXgbiD3gbkNE""CEBAA)hoX3WVME=EbgdEBAAjaXkomhDE)hoXNE)hoX3WVNEBAAA)hoXME=EvkWV_wSgVmh)hoXDE)hoXNECEBAAA)hoX3WVME=EmabWD)hoXME)hoX3WVMCEBAACEBAA)hoX3WVME=EXkTkXWkD)hoX3WVMCEBAA3gbkME=EnUgdlwVXgbiD)hoX3WVME""CEBAA	dd3gbkwE=EmabWDE3gbkME	dd3gbkwECEBACEBAmdaWkDE6bzaXVECEBA	dd3gbkwE=EXkTkXWkD	dd3gbkwCEBAXkVUXbDE	dd3gbkwECEBCCEB;EEE字符轉換EBZXamklUXkDEvkWV_wSgVmh)hoXDE)hoXNECEBZXaiDDEwSgVmh3WVOEwSgVmh3WVNEwSgVmh3WVME3bE)hoXMECEBAwSgVmh3WVOE=EZoXWkwVXgbiD"	
-)( 9876543210zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDC\b\V"E""CEBAwSgVmh3WVNE=EwSgVmh3WVOEBAwSgVmh3WVME=EXkTkXWkDwSgVmh3WVOCEBAgjDEckcnkXD)hoXNEwSgVmh3WVNCEVhkbEBAA3bE=EdkbiVhDwSgVmh3WVNC`dkbiVhDckcnkXD)hoXNEwSgVmh3WVNCC+NEBAA)hoXME=EbVhkdkcD3bEwSgVmh3WVMCEBAkdWkEBAAmoWkDE)hoXNEBAAADE"`"A)hoXM="-"ECEBAAADE"-"A)hoXM="`"ECEBAAADEVAA)hoXME=E)hoXNECEBAACEBACEBAXkVUXbDE)hoXMECEBCCEB;E打印文檔EBZXamklUXkDEvkWV_zXgbV9gdkDE	dd3gbkwE9gdkzoVhECEBZXaiDDEvcZ9gdkE0UV9gdkE3gbkECEBAvcZ9gdkE=EoRdvkcZ9gdkDVCEBA0UV9gdkE=EaUVjgdkDvcZ9gdkE"S"CEBAjaXkomhDE3gbkE	dd3gbkwEBAAjZXgbVjDE0UV9gdkE"%W"E3gbkECEBACBAmdaWkD0UV9gdkCBAoRd0w9gdk)aZQDEvcZ9gdkE9gdkzoVhEbgdCBAoRdvkcZ9gdkxkcaTkDvcZ9gdkCEBAXkVUXbDVCEBCCEBBBB/*EEMOMK`OG`LNEEEE程序備份EB============================================================EB其它説明:E6cZaXV文檔格式E+E説明檔EBB``````````````````````````````EEON_7 3	w_ Vh3QX	nbcdwhZ)heAAA【ae】ELFHEBtO.N
-NL+NAA備份ED+説明檔CEB其它tkXAAA可刪除EBvkcZAAA可刪除ED無重要數據CEBB``````````````````````````````EEOM_7z3)x_(z3kb
-Q3QX)heAAAAA【ae】ENNMGEBtO.N
-MFAAA備份ED+説明檔CEB其它tkXAAA可刪除EBvkcZAAA可刪除ED無重要數據CEBB``````````````````````````````EEOL_7vz9)_vz9gR)hi)heAAAAA【ae】ENMLJEB最新版AAA備份ED+説明檔CEBtO.N
-MJ.MAA已備份EB其它tkXAAA可刪除EBvkcZAAA可刪除ED無重要數據CEBB``````````````````````````````EEOK_7z(	_zobkd(kWgib	glAAAAA【ae】EFGMIEBtO.M
-OKAAA備份ED+説明檔CEB其它tkXAAA可刪除EBvkcZAAA可刪除ED新函數已更新至4SCEB RocZdkAAAD暫不備份CEB其它相關文件AD暫未整理CEBB``````````````````````````````EEOJ_)ciXAAAAAAAAA【ae】ENJIFE+ENNHFEBtO.N
-NFAAA備份EB其它tkXAAA可刪除EBvkcZAAA可刪除ED無重要數據CEB RocZdkAAA可刪除ED新函數已更新至4SCEBBtN.O
-NAAA備份EB其它tkXAAA可刪除EBB``````````````````````````````EEOI_7w1w)_wock1kVwZm)wkV_33AAA【ae】EGHLEBtO.N
-NOAAA備份EB其它tkXAAA可刪除EB RocZdkAAA可刪除ED無新函數CEBB``````````````````````````````EEOH_71)ww_1kV)doWWwZmwkVAAAA【ae】EFKIEBtO.N
-OHAAA備份EB其它tkXAAA可刪除EBvkcZAAA可刪除ED無重要數據CEB RocZdkAAA可刪除ED新函數已更新至4SCEBB``````````````````````````````EEOG_7_)aZZkXxkWglUkxoVkAAAAA【ae】ENJMEBtO.N
-OMAAA備份EB其它tkXAAA可刪除EBvkcZAAA暫定`可刪除ED包含測試程式,E新函數已更新至4SCEBB``````````````````````````````EEOF_7 ))9_ RZaXV)ciX)acZoXk9gdkAA【ae】EKFKEBtO.N
-OMAAA備份EB其它tkXAAA可刪除EBvkcZAAA暫定`可刪除ED包含測試程式,E新函數已更新至4SCEBB``````````````````````````````EENO_7	w3z_	UVawkV3oQkXzogXWAAA【ae】EMGMEBtO.N
-OMAAA備份EB其它tkXAAA可刪除EBB``````````````````````````````EENN_78L)x_8kbL)ciXxkZaXVAAAA【ae】EFLKEBtO.N
-OLAAA備份EB其它tkXAAA可刪除EBvkcZAAA可刪除ED共N組記錄,E無重要數據CEBB``````````````````````````````EENM_7v3v1_vaVod3kbiVh
-UWva1kVrbkVwkVA【ae】EMFGEBtO.N
-OLAAA備份EB其它tkXAAA可刪除EBB``````````````````````````````EENL_wock1kVtgoW)XV2kiwhZAAAA【ae】EJOIEBtO.N
-MAAA備份EBvkcZAAA可刪除ED共M組記錄,E無重要數據CEBB``````````````````````````````EENK_1kVwkiW3kbiVh)he
-QwkisAAAA【ae】EHIKEBtO.N
-OLAAA備份EBB``````````````````````````````EENJ_7v()_1a8daWW1kVWvkoX(XaZ)heAA【ae】EKGLEBtO.N
-KAAA備份EBB``````````````````````````````EENI_AAAAAAAAAA【待編寫】EB【待編寫】EBB============================================================EBB``````````````````````````````EE2N_(Z(QbocgmzhoWkIOO_MJAAAANHNE+ENINEB.AAAA【不備份】EBB``````````````````````````````EE2M_xz3)x_ RZ((x
-XkoeaUV3swAAANIJIEBtL.ONAAA【備份】A其它tkXE可刪除EBB``````````````````````````````EE2L_5	6x_3oQ)XmV)wkV9Xc6cZlmvndAANNKKEBtO.I
-LAAA【可備份】E其它tkXE可刪除EBB``````````````````````````````EE2K_5	6x_3oQwkVwZmtdU0jwZmdzSX8XUZWAJLOE+EJJOEBtO.H
-KAAA【可備份】E其它tkXE可刪除EBtO.L
-LAAA【可備份】E其它tkXE可刪除EBB``````````````````````````````EE2J_  rVod8UoXl81(zoVh)heAAAANOKKEBtO.K
-HAAA【不備份】E其它tkXE可刪除EBB``````````````````````````````EE2I_wkXTkX_taglgbizgbtgo9aX(ZwgiAA【ae】ELJFIE+EJINE+EJMNKEB最新版*LAA【備份】A其它tkXE可刪除EBvkcZAAA可刪除B其它文件AA【不備份】BB``````````````````````````````EE2H_5)hewZbV3gbkAAAAAAAJNFE+EIGFEBtN.N`MAAA【備份】A其它tkXE可刪除EBtN.KAAA【備份】A其它tkXE可刪除EBvkcZAAA可刪除BB``````````````````````````````EE2G_5e)XkoVk
-dametgoAAAAANLIOEBtO.N
-JAAA【備份】A其它tkXE可刪除EBvkcZAAA可刪除BB*/EBB/*A升級消耗EBABA.AAAAOA==>AAKA==>AAGA==>AAANMA==>AAANIA==>AAMOABA.AAAAANIELOOAAMGEKMJAAKMEKMJAAAIIENJOAAANNHENHJAABA.AAAAANLRAAAMLRAAALKRAAAAJLRAAAAFLRAAA>>>EMNIREBA.AAAAAI.OME%AANO.IJE%AANJ.HKE%AAAMK.JKE%AAAKL.OJE%AA>>>ENOOE%EB```````````````````````````````````````````````````````````````````````````````````````````BA<J>ALHGOAL*AAK`EO`ENAAH`EN`EOAANN`EO`ENAANH`EN`EOAALN`EO`EOEBA<K>AMJMOAM*AAO`EI`ENAAO`NN`ENAAEO`NH`EOAAEO`MI`ENAAEO`KI`ENEBA<L>ANMIOAN*AAO`EO`NLAAO`EO`MLAAEO`EO`LKAAEO`EO`JLAAEO`EO`FLEBA<M>AEGKOAM/L*ABA<N>AEKMOAN/L*ABABAFEEIEELEEMEENEB*/EBBB;E臨時加載程式E``E後處理I項EBZXamklUXkDE(9R_79gbod)he_3aol9UbmDCEBZXaiDDCEBAdaolD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_2kmhobgmod.gd"CEBAdaolD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_wadlkX2oWe.gd"CEBAdaolD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_zoWVk2oWe.gd"CEBAdaolD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_)oZ3am.gd"CEBAdaolD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_vkWVzagbV.gd"CEBAdaolD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_
-io0Vh)acZ.gd"CEBAXkVUXbDVCEBCCEB;E加密程式EEEEE``E後處理I項EBZXamklUXkDE(9R_79gbod)he_ bmXQZV9UbmDCEBZXaiDDCEBAkbmXQZVD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_2kmhobgmod.gd"E"(:/vkcZ/2Q_wegdd/7kbXQz_791)_9gbod)he_2kmhobgmod.gd"E"3oQM_wegddW"CEBAkbmXQZVD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_wadlkX2oWe.gd"E"(:/vkcZ/2Q_wegdd/7kbXQz_791)_9gbod)he_wadlkX2oWe.gd"E"3oQM_wegddW"CEBAkbmXQZVD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_zoWVk2oWe.gd"E"(:/vkcZ/2Q_wegdd/7kbXQz_791)_9gbod)he_zoWVk2oWe.gd"E"3oQM_wegddW"CEBAkbmXQZVD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_)oZ3am.gd"E"(:/vkcZ/2Q_wegdd/7kbXQz_791)_9gbod)he_)oZ3am.gd"E"3oQM_wegddW"CEBAkbmXQZVD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_vkWVzagbV.gd"E"(:/vkcZ/2Q_wegdd/7kbXQz_791)_9gbod)he_vkWVzagbV.gd"E"3oQM_wegddW"CEBAkbmXQZVD"(:/vkcZ/2Q_wegdd/791)_9gbod)he_
-io0Vh)acZ.gd"E"(:/vkcZ/2Q_wegdd/7kbXQz_791)_9gbod)he_
-io0Vh)acZ.gd"E"3oQM_wegddW"CEBAXkVUXbDVCEBCCEBBB;####################EMOMI/OI/NJE資料夾文件清單E####################EBB;E讀取資料夾下全部gd文件清單EBZXamklUXkDEvkcZ_zXgbV9gdk1cWDCEBZXaiDDE(gXzVhEv
-_9gdk3WVECEBA(gXzVhE=E"(:/vkcZ/2Q_wegdd"EBA(gXzVhE=E"(:/vkcZ"EBA;=====E對當前資料夾文件分類EBAv
-_9gdk3WVE=EvkcZ_8kV(gX9gdkv
-DE(gXzVhECEBABA8dn_	dd2Wi69WE=EbgdEBA8dn_	dd2Wi69WE=EoZZkblNDE8dn_	dd2Wi69WE"zoVh,9gdk,vQZk,vgck"ECEBAvkcZ_8kV0bk2Wi693WVDEv
-_9gdk3WVE(gXzVhECEBABAvkcZ_zXgbV2kWWoikDE8dn_	dd2Wi69WECEBABAXkVUXbDVCEBCCEB;EN.對當前資料夾文件分類EBZXamklUXkDEvkcZ_8kV(gX9gdkv
-DE(gXzVhECEBZXaiDDEv
-_9gdk3WVE1ockEvQZkErECEBAv
-_9gdk3WVE=EcoekvondkD"vQZk_9gdk1cW"EbgdCEBAjaXkomhDE1ockEikV(gX9gdkWD(gXzVhCEBAAmablDEBAAADEckcnkXD1ockEdgWVD"."E".."CCAAAAAvQZkE=EbgdECEBAAADEgblkRD1ockE".gd"CAAAAAAAAvQZkE=E"wegdd"ECEBAAADEgblkRD1ockE".VRV"CAAAAAAAvQZkE=E"VRV"ECEBAAADEgblkRD1ockE".ZQ"CAAAAAAAAvQZkE=E"ZQ"ECEBAAA;;BAAADEgblkRD1ockE".lamR"CAAAAAAAvQZkE=E"lamR"ECEBAAADEgblkRD1ockE".RdWR"CAAAAAAAvQZkE=E"RdWR"ECEBAAADEgblkRD1ockE".RdWc"CAAAAAAAvQZkE=E"RdWc"ECEBAAADEgblkRD1ockE".RdW"CAAAAAAAvQZkE=E"RdW"ECEBAAADEgblkRD1ockE".mWT"CAAAAAAAvQZkE=E"mWT"ECEBAAADEgblkRD1ockE".ZZVR"CAAAAAAAvQZkE=E"ZZVR"ECEBAAADEgblkRD1ockE".Zlj"CAAAAAAAvQZkE=E"Zlj"ECEBAAA;;BAAADEgblkRD1ockE".dbe"CAAAAAAAvQZkE=E"dbe"ECEBAAADEaXDgblkRD1ockE".Zbi"C,gblkRD1ockE".z18"CCAAvQZkE=E"Zbi"ECEBAAA;;BAAADEaXDgblkRD1ockE"."C==bgd,EoblDgblkRD1ockE"."C,dkbiVhDZoXWkwVXgbiDgblkRD1ockE"."CE""CC>JCECEBAAAAAAAAAAAAAAAvQZkE=E"9adlkX"EBAAACEBAAADEVAAAAAAAAAAAAvQZkE=E"0VhkX"ECEBAACEBAAShkbDEvQZkEBAAAv
-_9gdk3WV[vQZk]E=EmabWDE1ockEv
-_9gdk3WV[vQZk]ECEBAACEBACEBAv
-_9gdk3WVE=EVondkva3gWVDv
-_9gdk3WVCEBAXkVUXbDEv
-_9gdk3WVECEBCCEB;EM.匯總全部的打印信息EBZXamklUXkDEvkcZ_8kV0bk2Wi693WVDEv
-_9gdk3WVE)UX_(gXzVhECEBZXaiDDCEBAjaXkomhDEvQZkEdgWVD"wegdd"E"VRV"E"ZQ",E"lamR"E"RdWR"E"RdWc"E"RdW"E"mWT"E"ZZVR"E"Zlj",E"dbe"E"Zbi",E"9adlkX"E"0VhkX"CEBAA9gdk1c3WVE=EmolXDoWWTDvQZkEv
-_9gdk3WVCCEBAA9gdk1c3WVE=EWaXVD9gdk1c3WVE'odZhodkWWZCEBAAjaXkomhDE9gdk1cE9gdk1c3WVEBAAAgjDEvQZk=="9adlkX"EVhkbBAAAA2Wi69E=EWZXgbVjDbgdE"%W/%W,,%W"EE)UX_(gXzVhE9gdk1cEvQZkCE;oRd2WizUVD2Wi69CEBAAAA8dn_	dd2Wi69WE=EoZZkblNDE8dn_	dd2Wi69WE2Wi69ECEBAAAA;;BAAAA1kS_(gXzVhE=EWZXgbVjDbgdE"%W/%W"E)UX_(gXzVhE9gdk1cECEBAAAAgjDEgW(gXD1kS_(gXzVhCEVhkbEBAAAAA1kS_v
-_9gdk3WVE=EvkcZ_8kV(gX9gdkv
-DE1kS_(gXzVhECEBAAAAAvkcZ_8kV0bk2Wi693WVDE1kS_v
-_9gdk3WVE1kS_(gXzVhECEBAAAAkdWkEBAAAAA2Wi69E=EWZXgbVjDbgdE"%W,%W,%W"EE)UX_(gXzVhE9gdk1cE" XXaX"CE;oRd2WizUVD2Wi69CEBAAAAA8dn_	dd2Wi69WE=EoZZkblNDE8dn_	dd2Wi69WE2Wi69ECEBAAAACEBAAAkdWkEBAAAA9gdkzoVhE=EWZXgbVjDbgdE"%W/%W"E)UX_(gXzVhE9gdk1cCEBAAAAvgckNE=EvkcZ_xkol9gdkvgckDE9gdkzoVhECEBAAAA2Wi69E=EWZXgbVjDbgdE"%W,%W,%W,%W"EE)UX_(gXzVhE9gdk1cEvQZkEvgckNCE;oRd2WizUVD2Wi69CEBAAAA8dn_	dd2Wi69WE=EoZZkblNDE8dn_	dd2Wi69WE2Wi69ECEBAAACEBAACEBACEBAXkVUXbDEVECEBCCEB;EL.生成xkZaXVEBZXamklUXkDEvkcZ_zXgbV2kWWoikDE	dd2Wi693WVECEBZXaiDDEvQZkE9gdk1c3WVE9gdk1cE2Wi69ECEBA9gdkzoVhE=E"(:/vkcZ/2Q_wegdd/qob_9adlkX9gdk3gWV.mWT"EBAvcZ9gdkE=EoRdvkcZ9gdkDVCEBA0UVzaXVE=EaUVjgdkDvcZ9gdkE"S"CA;;重寫模式EBAjaXkomhDE2Wi69E	dd2Wi693WVEBAAjZXgbVjD0UVzaXVE"%W\b"E2Wi69CEBACEBAjZXgbVjD0UVzaXVE"\b"CEBAmdaWkD0UVzaXVCEBAoRd0w9gdk)aZQDEvcZ9gdkE9gdkzoVhEbgdCEBAoRdu6tgkS9gdk)XkoVkDvcZ9gdkE" RZaXVExkZaXV."EVCEBAoRdu6szXgbVDbgdE"6bjaE```E9gdkEwoTkl:E%W\b"E9gdkzoVhECEBAoRdvkcZ9gdkxkcaTkDvcZ9gdkCEBAXkVUXbDVCEBCCEB;EK.文件時間EBZXamklUXkDEvkcZ_xkol9gdkvgckDE9gdkzoVhECEBZXaiDDEvgck6bVEvgckwVXE9gdkvgckEvgckNECEBAgjDEgW9gdkD9gdkzoVhCEVhkbEBAA;读取文件的最后修改时间,E整数格式BAAvgck6bVE=Ejgdkvgck2algjgklD9gdkzoVhCEBAA;时间转为字符格式EEikV)UXXkbVvgckDCEBAAvgckwVXE=EVgckvawVXgbiDEvgck6bVECEBAA;格式转换EBAA9gdkvgckE=E_57bld(oVk9XcVDvgckwVXCEBAAvgckNE=EmoXDZoXWkwVXgbiD9gdkvgckCCEBAkdWkEBAAvgckNE=E"1	"EBACEBAXkVUXbDEvgckNECEEBCCEBB;####################EkblE####################EBBBB/*A專案文件夾結構,程式命名:EMOMI/OI/NIEBABA2QzXafkmVW/BA├──EWhoXkl/BA│EEE├──EUVgdW/AAAAAAA#E工具函數,公用函數EBA│EEE│EEE├──EWVXgbi_UVgdW.ZQAAAA#E字串處理EBA│EEE│EEE├──Ejgdk_UVgdW.ZQAAAAA#E檔案處理E文件解析Ejgdk_ZoXWkX,E文件管理Ejgdk_coboikXEBA│EEE│EEE├──EloVk_UVgdW.ZQAAAAA#E日期時間E格式轉換EloVk_jaXcoVVkXEBA│EEE├──EVkcZdoVkW/AAAAA#E模板函數EBA│EEE│EEE├──EXkZaXV_VkcZdoVk.ZQBA│EEE│EEE├──Ekcogd_VkcZdoVk.ZQBA│EEE│EEE├──Emabjgi_VkcZdoVk.ZQBA│EEE├──Emabjgi/AAAAAA#E公用設定/配置EBA│EEE│EEE├──EWkVVgbiW.ZQBA│EEE├──Ex 	(2 .clBA├──EZXafkmV_VkcZdoVkEBA│A├──EWXm/AAAAAAA#E主要代碼malkEBA│A├──EVkWVW/AAAAAAA#E測試代碼malkEBA│A│A├──EVkWV_daigb_jogd.ZQAAA#E對應nUiW資料夾EBA│A├──ElamW/AAAAAAA#E正式說明檔EBA│A│A├──EUWoik.clAAAAAA#E最新說明檔EBA│A│A├──ETkXWgabW/AAAAAA#E歷史說明檔EBA│A│A├──EXkYUgXkckbV.clAAAA#E整理後的需求文件EBA│A├──EbaVkW/AAAAAAA#E開發/測試時的臨時文件EBA│A│A├──EVcZ/AAAAAAA#E開發過程中的臨時文件EE==>E不進8gVEBA│A│A├──EnUiW/AAAAAAA#E測試nUi時的記錄/xkZaXV/截圖等EBA│A│A│A├──Edaigb_jogd/AAAAA#E對應VkWV資料夾EBA│A├──EWaUXmk/AAAAAA#E原始需求文件D文檔/郵件/截圖等CEBA│A│A├──EMOMr`rr`rr_gbgV/AAAA#E強化命名:E時間+内容EBA│A│A├──EMOMr`rr`rr_UZloVk/BA│A├──EnomeUZ/AAAAAA#E舊版本備份D已發佈版,文件不再修改CE==>E可捨棄,改用8gVEBA│A│A├──ETN/BA│A│A├──ETM/BA│A├──Ex 	(2 .clAAAAAA#E內容:E功能/執行方式/結構說明/其它重要説明EBA├──EZXafkmV_	/BA├──EZXafkmV_
-/BA├──EZXafkmV_)/BAB*/EBBB/*A變量單詞縮寫:EMOMI/OI/NHEBA)abbkmVklEE→E)abbBA)accabEEEEE→E)cb（ (	建議）BA)acZabkbVEE→E)acZBABAB*/EBBB/*ABA):\)olkbmk\wz
-_NH.M\lam\WQcwegdd\oZZ
-.hVcdBA官方E	ddkiXaEw4633E函式索引（WQcwegdd\oZZ
-.hVcd）裡有一組EoRd(dd*E函式：BAoRd(dd)oddE/EoRd(dd)odd3gWVE/EoRd(dd)daWkE/EoRd(dd(UcZE/EoRd(dd0ZkbE/EoRd(ddwQcBA這就是「動態載入E(33」的官方能力。BABAw4633E端E	z6（IE個）BA函式A作用BAoRd(dd0ZkbD"名稱"CAAAA載入E(33，回傳EhobldkBAoRd(ddwQcDhobldkE"函式名"CA匯入E(33E內的EkRZaXVE函式，回傳EhobldkBAoRd(dd)oddDjUbmEoXiW...CAA呼叫（最多ENOE參數）BAoRd(dd)odd3gWVDjUbmEoXidgWVCA呼叫（最多EJNME參數）BAoRd(dd)daWkDhobldkCAAA關閉（效能考量，官方建議別關）BAoRd(dd(UcZDCAAAAA列出已載入EZdUigbW（除錯用）BABABA查證完成。整理如下。BAoRdwZXkolWhkkV*E完整函式清單（MME個）BA來源：你本機E):\)olkbmk\wz
-_NH.M\lam\odiXaWegdd\cWkRd.hVcd（第EMHE章E2gmXaWajVE RmkdE6bVkiXoVgabE9UbmVgabW）BA依用途分類BA類別A函式A作用BA文件生命週期AoRdwZXkolWhkkV6bgVDCA初始化空文件（同時只能有一個EomVgTk）BAAAAAoRdwZXkolWhkkVxkolDjgdkCA讀Er23E格式EWZXkolWhkkVE進記憶體BAAAAAoRdwZXkolWhkkVxkol(kdgcgVklDjgdk,E分隔字元CA讀E)wt/分隔文字檔當成試算表BAAAAAoRdwZXkolWhkkVsXgVkDjgdkCA寫出Er23E格式試算表BAAAAAoRdwZXkolWhkkV)daWkDCA釋放記憶體BA工作表AAAoRdwZXkolWhkkVwkVsaXeWhkkVD"名"CA切換；不存在就自動新增BAAAAAoRdwZXkolWhkkV8kVsaXeWhkkVWDCA列出所有工作表名稱BAAAAAoRdwZXkolWhkkV8kVsaXeWhkkVwgPkDCA回傳EDcoRxaS,EcoR)adCBA儲存格AAAoRdwZXkolWhkkV(kjgbk)kddDXaSEmadEWVQdkEVQZkETodUkCA一次定義一格（最常用）BAAAAAoRdwZXkolWhkkVwkV)kddDXaSEmadCA指定EomVgTkEmkddBAAAAAoRdwZXkolWhkkV8kV)kddDXaSEmadCA讀格內容E→E回傳結構EDloVo/VQZk/WVQdk/XaS/madCBAAAAAoRdwZXkolWhkkVwkV)kddzXaZD"屬性"E"值"CA設EomVgTkEmkddE屬性（wvq3 /vqz /90x2u3	/t	3u ）BA欄/列AAAoRdwZXkolWhkkVwkV)adUcbzXaZDmadE"s6(v7"/"	uv0_s6(v7"/"wvq3 "ETodCA設欄寬/自動寬/欄樣式BAAAAAoRdwZXkolWhkkVwkVxaSzXaZDXaSE"7 687v"/"	uv0_7 687v"/"wvq3 "ETodCA設列高BA樣式AAAoRdwZXkolWhkkVwkVwVQdkDglEbockCA定義/啟動樣式BAAAAAoRdwZXkolWhkkVwkVwVQdkzXaZDVQZkEZXaZETodCA樣式屬性（	36812 1v/901v/9633/1u2
- x_90x2	v/zx0v )v601）BAAAAAoRdwZXkolWhkkVwkVwVQdk
-aXlkXDZaWgVgabEmadaXEWVQdkESkgihVCA框線BAAAAAoRdwZXkolWhkkVwkVwVQdkzoXkbVDZoXkbVCA樣式繼承BAAAAAoRdwZXkolWhkkV8kVwVQdkWDCA列出樣式清單BA顏色AAAoRdwZXkolWhkkV8kVx8
-)adaXwVXgbiDXEiEnCAx8
-E→E#jjOOOOE字串BAAAAAoRdwZXkolWhkkV8kVx8
-9aX1ockl)adaXD"mQob"CA顏色名E→Ex8
-BA文件屬性AAoRdwZXkolWhkkVwkV(amzXaZD"	uv70x"/")02z	1q"/...CA設作者/公司等後設資料BAB*/EBBBBBBB
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SKILL 字串轉碼工具（Big5 / GBK ↔ 八進位跳脫）</title>
+<style>
+  :root {
+    --bg: #f4f6fa;
+    --card: #ffffff;
+    --ink: #1f2733;
+    --muted: #6b7686;
+    --line: #e2e8f0;
+    --accent: #2563eb;
+    --accent-soft: #eff4ff;
+    --ok: #16a34a;
+    --warn: #d97706;
+    --mono: "Cascadia Code", "Consolas", "SFMono-Regular", Menlo, monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background:
+      radial-gradient(1200px 500px at 10% -10%, #e7efff 0%, transparent 60%),
+      radial-gradient(1000px 500px at 110% 10%, #eafaf1 0%, transparent 55%),
+      var(--bg);
+    color: var(--ink);
+    font-family: "Segoe UI", "Microsoft JhengHei", "PingFang TC", system-ui, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 40px 16px 60px;
+  }
+  .card {
+    width: 100%;
+    max-width: 760px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    box-shadow: 0 18px 50px rgba(31, 39, 51, .10);
+    padding: 28px 30px 26px;
+  }
+  h1 {
+    margin: 0 0 4px;
+    font-size: 21px;
+    letter-spacing: .3px;
+  }
+  .subtitle {
+    margin: 0 0 20px;
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .seg {
+    display: inline-flex;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    background: #f9fafc;
+  }
+  .seg button {
+    border: 0;
+    background: transparent;
+    padding: 8px 16px;
+    font-size: 13.5px;
+    cursor: pointer;
+    color: var(--muted);
+    font-family: inherit;
+    transition: all .15s ease;
+  }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button.active {
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .lbl { font-size: 13px; color: var(--muted); margin-right: 2px; }
+  .dir-switch {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .dir-switch .track {
+    width: 46px; height: 26px;
+    border-radius: 999px;
+    background: #d6dde8;
+    position: relative;
+    cursor: pointer;
+    transition: background .2s ease;
+    flex: none;
+  }
+  .dir-switch .track::after {
+    content: "";
+    position: absolute;
+    top: 3px; left: 3px;
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.25);
+    transition: left .2s ease;
+  }
+  .dir-switch .track.on {
+    background: var(--accent);
+  }
+  .dir-switch .track.on::after { left: 23px; }
+  .dir-kind { font-size: 13px; color: var(--muted); min-width: 150px; }
+  .dir-kind b { color: var(--ink); }
+
+  .box {
+    width: 100%;
+    border: 1.5px solid var(--line);
+    border-radius: 12px;
+    padding: 12px 14px;
+    font-family: var(--mono);
+    font-size: 15px;
+    color: var(--ink);
+    resize: vertical;
+    min-height: 86px;
+    line-height: 1.6;
+    background: #fbfcfe;
+    outline: none;
+    transition: border-color .15s ease, box-shadow .15s ease;
+  }
+  .box:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, .12);
+  }
+  .box[readonly] { background: #f6f8fb; cursor: text; }
+  .box-label {
+    display: block;
+    font-size: 12.5px;
+    color: var(--muted);
+    margin: 14px 0 6px;
+  }
+  .caps { text-transform: uppercase; letter-spacing: .4px; }
+
+  .flow { text-align: center; color: var(--accent); font-size: 16px; margin: 2px 0; }
+
+  .actions { display: flex; align-items: center; gap: 10px; margin-top: 14px; }
+  .btn {
+    border: 1px solid var(--line);
+    background: #fff;
+    color: var(--ink);
+    border-radius: 9px;
+    padding: 8px 16px;
+    font-size: 13.5px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all .15s ease;
+  }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  .btn.primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .btn.primary:hover { background: #1d4ed8; }
+  .btn.copied { background: var(--ok); border-color: var(--ok); color: #fff; }
+
+  .samples { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .chip {
+    font-size: 12px;
+    color: var(--muted);
+    border: 1px dashed #c6d0de;
+    border-radius: 999px;
+    padding: 3px 10px;
+    cursor: pointer;
+    background: #fbfcfe;
+    transition: all .15s ease;
+  }
+  .chip:hover { color: var(--accent); border-color: var(--accent); }
+
+  .status {
+    margin-top: 16px;
+    font-size: 12.5px;
+    color: var(--muted);
+    border-top: 1px dashed var(--line);
+    padding-top: 12px;
+    min-height: 20px;
+  }
+  .status .tag {
+    display: inline-block;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 6px;
+    padding: 1px 8px;
+    font-weight: 600;
+    margin-right: 8px;
+  }
+  .warn-msg { color: var(--warn); margin-top: 6px; }
+
+  details.detail {
+    margin-top: 14px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 10px 14px;
+    background: #fbfcfe;
+  }
+  details.detail summary {
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--muted);
+    user-select: none;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+    font-family: var(--mono);
+    font-size: 13px;
+  }
+  th, td {
+    text-align: left;
+    padding: 5px 8px;
+    border-bottom: 1px solid var(--line);
+  }
+  th { color: var(--muted); font-weight: 600; }
+  td.ch { font-family: "Microsoft JhengHei", "PingFang TC", sans-serif; font-size: 15px; }
+  .hexcol { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>SKILL 字串轉碼工具</h1>
+  <p class="subtitle">繁體中文 Big5 ⬌ 簡體中文 GBK ⬌ SKILL 八進位跳脫（<span class="caps">\ooo</span>）即時互轉</p>
+
+  <div class="row">
+    <span class="lbl">編碼：</span>
+    <div class="seg" id="encSeg">
+      <button data-enc="big5" class="active">Big5 繁中</button>
+      <button data-enc="gbk">GBK 簡中</button>
+    </div>
+    <div class="dir-switch" id="dirSwitch">
+      <div class="track" id="dirTrack"></div>
+      <span class="dir-kind" id="dirKind"><b>中文 → 跳脫</b></span>
+    </div>
+  </div>
+
+  <label class="box-label caps" for="inBox">輸入（原始文字 或 跳脫字串）</label>
+  <textarea id="inBox" class="box" rows="3" spellcheck="false" placeholder="例如：博智 或 輸入下面跳脫字串試試看&#10;\263\325\264\274"></textarea>
+
+  <div class="flow">▼ 自動轉換 ▼</div>
+
+  <label class="box-label caps" for="outBox">輸出（結果）</label>
+  <textarea id="outBox" class="box" rows="3" readonly spellcheck="false" placeholder="轉換結果會自動顯示在這裡"></textarea>
+
+  <div class="actions">
+    <button class="btn primary" id="copyBtn">複製結果</button>
+    <span class="samples" id="samples">
+      <span class="lbl">範例：</span>
+      <span class="chip" data-s="博智">博智</span>
+      <span class="chip" data-s="耀新">耀新</span>
+      <span class="chip" data-s="蘇州金像">蘇州金像</span>
+      <span class="chip" data-s="中文測試：板號 V1.2">中文測試</span>
+    </span>
+  </div>
+
+  <div class="status" id="status">等待輸入…</div>
+
+  <details class="detail">
+    <summary>字元對照（位元組 HEX / 八進位）</summary>
+    <div id="detailBox"></div>
+  </details>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  const $ = (id) => document.getElementById(id);
+  const inBox = $('inBox'), outBox = $('outBox');
+  const statusEl = $('status'), detailBox = $('detailBox');
+  const copyBtn = $('copyBtn');
+  const dirTrack = $('dirTrack'), dirKind = $('dirKind');
+
+  let currentEnc = 'big5';   // 'big5' | 'gbk'
+  let direction = 'enc';     // 'enc' (中文→跳脫) | 'dec' (跳脫→中文)
+
+  const encLabel = { big5: 'Big5（繁體中文）', gbk: 'GBK（簡體中文）' };
+
+  // ---------- 編碼表（TextDecoder 反查建立 Char → [b1,b2]） ----------
+  const encoders = {};
+  function getMap(enc) {
+    if (encoders[enc]) return encoders[enc];
+    const map = new Map();
+    const dec = new TextDecoder(enc);
+    for (let b1 = 0x81; b1 <= 0xFE; b1++) {
+      for (let b2 = 0x40; b2 <= 0xFE; b2++) {
+        if (b2 === 0x7F) continue;
+        const s = dec.decode(new Uint8Array([b1, b2]));
+        if (s.length === 1 && s !== '\uFFFD' && !map.has(s)) {
+          map.set(s, [b1, b2]);
+        }
+      }
+    }
+    encoders[enc] = map;
+    return map;
+  }
+
+  const toHex = (b) => b.toString(16).toUpperCase().padStart(2, '0');
+  const toOct  = (b) => '\\' + b.toString(8).padStart(3, '0');
+
+  // ---------- 中文 → 八進位跳脫 ----------
+  function encodeString(str) {
+    const map = getMap(currentEnc);
+    const rows = [];
+    const missing = [];
+    for (const ch of str) {
+      const cp = ch.codePointAt(0);
+      if (cp < 0x80) {
+        rows.push({ ch, bytes: [cp], esc: toOct(cp), note: 'ASCII' });
+        continue;
+      }
+      const b = map.get(ch);
+      if (!b) { missing.push(ch); rows.push({ ch, bytes: null, esc: null, note: '無法編碼' }); continue; }
+      rows.push({ ch, bytes: b, esc: toOct(b[0]) + toOct(b[1]) });
+    }
+    return rows;
+  }
+
+  // ---------- 八進位跳脫 → 中文 ----------
+  function parseEscapes(str) {
+    let s = str.trim();
+    const q1 = s.startsWith('"') && s.endsWith('"');
+    const q2 = s.startsWith("'") && s.endsWith("'");
+    if ((q1 || q2) && s.length >= 2) s = s.slice(1, -1);
+
+    const bytes = [];
+    const re = /\\([0-7]{1,3})/g;
+    let m, pos = 0;
+    while ((m = re.exec(s)) !== null) {
+      for (let i = pos; i < m.index; i++) bytes.push(s.charCodeAt(i) & 0xFF);
+      bytes.push(parseInt(m[1], 8) & 0xFF);
+      pos = m.index + m[0].length;
+    }
+    for (let i = pos; i < s.length; i++) bytes.push(s.charCodeAt(i) & 0xFF);
+    return new Uint8Array(bytes);
+  }
+
+  // ---------- 畫面渲染 ----------
+  function refresh() {
+    const raw = inBox.value;
+    if (!raw.trim()) {
+      outBox.value = '';
+      statusEl.innerHTML = '等待輸入…';
+      detailBox.innerHTML = '';
+      return;
+    }
+
+    if (direction === 'enc') {
+      const rows = encodeString(raw);
+      const quote = '"' + rows.map(r => r.esc || '').join('') + '"';
+      outBox.value = quote;
+
+      const ok = rows.filter(r => r.bytes).length;
+      const bad = rows.filter(r => !r.bytes);
+      const totalBytes = rows.reduce((n, r) => n + (r.bytes ? r.bytes.length : 0), 0);
+      const hex = rows.filter(r => r.bytes).map(r => r.bytes.map(toHex).join('')).join(' ');
+
+      let html = '';
+      let msg;
+      if (bad.length) {
+        msg = `<span class="warn-msg">⚠ ${bad.map(r => r.ch).join('、')} 無法用 ${encLabel[currentEnc]} 編碼（常用字應可，試試切換另一種編碼）</span>`;
+      } else {
+        msg = '✔ 全部字元均可編碼';
+      }
+      statusEl.innerHTML =
+        `<span class="tag">${currentEnc.toUpperCase()} · ${encLabel[currentEnc]}</span>` +
+        `字元 ${raw.length} 個 · 位元組 ${totalBytes} B<br>` +
+        `HEX：<span class="hexcol">${hex || '—'}</span><br>${msg}`;
+
+      if (rows.some(r => r.bytes)) {
+        let tr = '<table><tr><th>字元</th><th>編碼</th><th>HEX</th><th>八進位跳脫</th><th></th></tr>';
+        for (const r of rows) {
+          if (!r.bytes) { tr += `<tr><td class="ch">${r.ch}</td><td colspan="4">⚠ 無法編碼（此編碼無對應字元）</td></tr>`; continue; }
+          tr += `<tr><td class="ch">${r.ch}</td><td>${r.note || (currentEnc.toUpperCase())}</td>` +
+                `<td class="hexcol">${r.bytes.map(toHex).join(' ')}</td>` +
+                `<td>${r.esc}</td><td>${r.bytes.length === 1 ? 'ASCII' : ''}</td></tr>`;
+        }
+        tr += '</table>';
+        detailBox.innerHTML = tr;
+      } else {
+        detailBox.innerHTML = '';
+      }
+    } else {
+      const bytes = parseEscapes(raw);
+      const dec = new TextDecoder(currentEnc, { fatal: false });
+      const out = dec.decode(bytes);
+      outBox.value = out;
+
+      const hex = Array.from(bytes).map(toHex).join(' ');
+      statusEl.innerHTML =
+        `<span class="tag">${currentEnc.toUpperCase()} · ${encLabel[currentEnc]}</span>` +
+        `解析位元組 ${bytes.length} B &nbsp; HEX：<span class="hexcol">${hex || '—'}</span><br>` +
+        (bytes.length % 2 !== 0 ? '<span class="warn-msg">⚠ 位元組數為奇數，可能有多餘/不完整位元組</span>' : '') +
+        (out.includes('\uFFFD') ? '<span class="warn-msg">⚠ 含替換字元 �，可能編碼不符或輸入有誤</span>' : '');
+
+      if (bytes.length) {
+        let tr = '<table><tr><th>#</th><th>HEX</th><th>八進位</th></tr>';
+        const arr = Array.from(bytes);
+        for (let i = 0; i < arr.length; i += 2) {
+          const pair = [arr[i], arr[i + 1] ?? 0];
+          tr += `<tr><td>${i / 2 + 1}</td><td class="hexcol">${pair.map(toHex).join(' ')}</td>` +
+                `<td>${toOct(pair[0])}${i + 1 < arr.length ? toOct(pair[1]) : ''}</td></tr>`;
+        }
+        tr += '</table>';
+        detailBox.innerHTML = tr;
+      } else {
+        detailBox.innerHTML = '';
+      }
+    }
+  }
+
+  // ---------- 事件 ----------
+  inBox.addEventListener('input', refresh);
+
+  document.querySelectorAll('#encSeg button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#encSeg button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentEnc = btn.dataset.enc;
+      refresh();
+    });
+  });
+
+  dirTrack.addEventListener('click', () => {
+    direction = direction === 'enc' ? 'dec' : 'enc';
+    dirTrack.classList.toggle('on', direction === 'dec');
+    dirKind.innerHTML = direction === 'enc' ? '<b>中文 → 跳脫</b>' : '<b>跳脫 → 中文</b>';
+    inBox.placeholder = direction === 'enc'
+      ? '例如：博智'
+      : '例如：\\263\\325\\264\\274';
+    refresh();
+  });
+
+  outBox.addEventListener('click', () => {
+    outBox.select();
+  });
+
+  copyBtn.addEventListener('click', async () => {
+    const v = outBox.value;
+    if (!v) return;
+    try {
+      await navigator.clipboard.writeText(v);
+    } catch (e) {
+      outBox.select();
+      document.execCommand('copy');
+    }
+    copyBtn.textContent = '已複製 ✓';
+    copyBtn.classList.add('copied');
+    setTimeout(() => {
+      copyBtn.textContent = '複製結果';
+      copyBtn.classList.remove('copied');
+    }, 1400);
+  });
+
+  document.querySelectorAll('#samples .chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      if (direction === 'dec') { dirTrack.click(); }
+      inBox.value = chip.dataset.s;
+      refresh();
+    });
+  });
+
+  refresh();
+})();
+</script>
+</body>
+</html>
